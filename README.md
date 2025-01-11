@@ -416,9 +416,5 @@ To github.com:ifireiceya/MyFirstRepo.git
 Репозиторий хранится в `ifireice/git` , а изменения у нас делает пользователь `ifireiceya`
 
 
-#TODO
-Дописать 
-- squash - схлапывание коммитов в один 
-- revert
-- rebase
-- cherry-pick
+#OK
+опечатки исправлены привет всем)
